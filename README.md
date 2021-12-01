@@ -1,6 +1,12 @@
 ## Hi there 👋,
 
 - 🔭 I’m currently working on improving my CSS and Javascript skills to perfection ✨.
+- 😄 Pronouns: She/her
+ 
+# Contact me on LinkedIn:
+📫 https://www.linkedin.com/in/sara-blom-8ba389144/
+
+## Cheers!
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -12,8 +18,6 @@
     <a href="https://sass-lang.com/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" alt="css3" height="40"/> 
   </a> 
-  
-  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>  
