@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on improving my CSS and Javascript skills to perfection ✨.
 - 😄 Pronouns: She/her
  
-# Contact me on LinkedIn:
+### Contact me on LinkedIn:
 📫 https://www.linkedin.com/in/sara-blom-8ba389144/
 
 ## Cheers!
