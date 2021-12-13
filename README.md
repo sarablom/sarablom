@@ -19,6 +19,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> 
   </a>  
+   <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-sreax&psig=AOvVaw0QbX3DgK7u4FZI4TxJYKF_&ust=1639479967340000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD70frQ4PQCFQAAAAAdAAAAABAD" alt="node" height="40"/> 
+  </a>  
+
    <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="react" height="40"/> 
   </a>  
