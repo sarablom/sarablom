@@ -20,7 +20,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> 
   </a>  
    <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-sreax&psig=AOvVaw0QbX3DgK7u4FZI4TxJYKF_&ust=1639479967340000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD70frQ4PQCFQAAAAAdAAAAABAD" alt="node" height="40"/> 
+    <img src="https://mpng.subpng.com/20180821/zwc/kisspng-node-js-javascript-express-js-portable-network-gra-mixin-software-5b7c72478c6ba0.9607634315348823755752.jpg" alt="node" height="40"/> 
   </a>  
 
    <a href="https://reactjs.org/" target="_blank"> 
