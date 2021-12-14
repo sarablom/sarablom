@@ -1,7 +1,7 @@
 ## Hi there 👋,
 
 - 🔭 I’m currently working on improving my CSS and Javascript skills ✨.
-- 🌱 I’m currently learning TypeScript and testing with Jest.
+- 🌱 I’m currently learning Adobe XD, TypeScript and testing with Jest.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>.
 - 😄 Pronouns: She/her
  
