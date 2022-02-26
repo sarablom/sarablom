@@ -1,7 +1,6 @@
 ## Hi there 👋,
 
-- 🔭 I’m currently working on improving my CSS and Javascript/React skills ✨.
-- 🌱 I’m currently learning Adobe XD, TypeScript and testing with Jest.
+- 🌱 I’m currently learning C# and .NET.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>.
 - 😄 Pronouns: She/her
  
@@ -20,6 +19,9 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> 
+  </a>  
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40"/> 
   </a>  
    <a href="https://nodejs.org/en/" target="_blank"> 
     <img src="https://mpng.subpng.com/20180821/zwc/kisspng-node-js-javascript-express-js-portable-network-gra-mixin-software-5b7c72478c6ba0.9607634315348823755752.jpg" alt="node" height="40"/> 
