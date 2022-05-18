@@ -1,7 +1,7 @@
 ## Hi there 👋,
 
-- 🌱 I’m currently learning C# and .NET.
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>.
+- 🌱 I’m currently learning React Redux and RTK Query
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>
 - 😄 Pronouns: She/her
  
 ### Contact me on LinkedIn:
