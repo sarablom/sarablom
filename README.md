@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-- 🌱 I’m currently learning React Redux and RTK Query
+- 🌱 I’m currently learning Svelte
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>
 - 😄 Pronouns: She/her
  
