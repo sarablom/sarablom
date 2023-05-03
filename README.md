@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-- 🌱 I’m currently improving my skills in TypeScript
+- 🌱 I’m currently learning Flutter
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>
 - 😄 Pronouns: She/her
  
