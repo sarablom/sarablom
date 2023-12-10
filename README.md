@@ -1,6 +1,6 @@
 ## Hi there 👋,
 
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning UX and interaction design
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>
 - 😄 Pronouns: She/her
  
