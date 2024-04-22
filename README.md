@@ -27,7 +27,7 @@ I'm a frontend developer, currently mainly writing TypeScript in React.
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" height="40"/> 
   </a>  
    <a href="https://nodejs.org/en/" target="_blank"> 
-    <img src="https://mpng.subpng.com/20180821/zwc/kisspng-node-js-javascript-express-js-portable-network-gra-mixin-software-5b7c72478c6ba0.9607634315348823755752.jpg" alt="node" height="40"/> 
+    <img src="https://mpng.subpng.com/20180821/zwc/kisspng-node-js-javascript-express-js-portable-network-gra-mixin-software-5b7c72478c6ba0.9607634315348823755752.jpg alt="node.js" height="40"/> 
   </a>  
 
    <a href="https://reactjs.org/" target="_blank"> 
