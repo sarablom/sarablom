@@ -2,7 +2,7 @@
 
 I'm a frontend developer, currently mainly writing TypeScript in React.
 
-- 🌱 I’m currently improving my UX- and interaction design skills
+- 🌱 I’m currently deep diving into a11y land
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sara-blom-8ba389144/">Linked-in profile</a>
 - 😄 Pronouns: She/her
